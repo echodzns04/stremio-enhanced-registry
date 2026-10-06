@@ -209,6 +209,33 @@
       "version": "1.0.0",
       "repo": "https://github.com/JackVonDanger/stremio-countdown-timer",
       "download": "https://github.com/JackVonDanger/stremio-countdown-timer/releases/download/v1.0.0/countdown-timer.plugin.js"
+    },
+    {
+      "name": "Stream Finder",
+      "author": "Echo",
+      "description": "Search box, quality (4K, 1080p, HDR, Dolby Vision) and audio-language filter chips for the streams list, plus a drag-to-resize streams sidebar.",
+      "version": "1.0.3",
+      "repo": "https://github.com/echodzns04/echo-stremio-plugins",
+      "preview": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/main/previews/stream-finder-preview.png",
+      "download": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/v1.0/plugins/stream-finder.plugin.js"
+    },
+    {
+      "name": "Addon Organizer",
+      "author": "Echo",
+      "description": "Drag and drop your addons into the order you want, rename them, and show or hide their catalogs.",
+      "version": "1.0.2",
+      "repo": "https://github.com/echodzns04/echo-stremio-plugins",
+      "preview": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/main/previews/addon-organizer-preview.png",
+      "download": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/v1.0/plugins/addon-organizer.plugin.js"
+    },
+    {
+      "name": "Lumen",
+      "author": "Echo",
+      "description": "A cinematic, TV-app style redesign: glass sidebar, rotating hero billboard, landscape Continue Watching, ranked Top rows and full-bleed detail pages.",
+      "version": "1.1.0",
+      "repo": "https://github.com/echodzns04/echo-stremio-plugins",
+      "preview": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/main/previews/lumen-preview.png",
+      "download": "https://raw.githubusercontent.com/echodzns04/echo-stremio-plugins/v1.0/plugins/lumen.plugin.js"
     }
   ],
   "themes": [
